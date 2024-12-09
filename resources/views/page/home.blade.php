@@ -431,6 +431,31 @@
                             <li><i class="lni lni-star-filled"></i></li>
                             <li><span>5.0 Review(s)</span></li>
                         </ul>
+                        <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Miễn phí công thay lõi và sửa máy lọc nước.</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p>
                         <div class="price">
                             <span>$899.00</span>
                         </div>
