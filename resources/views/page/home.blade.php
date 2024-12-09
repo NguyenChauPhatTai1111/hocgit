@@ -253,6 +253,20 @@
                             <li><i class="lni lni-star-filled"></i></li>
                             <li><span>5.0 Review(s)</span></li>
                         </ul>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p> <p><i class="bi bi-check-lg text-danger"></i> Được bảo hành linh kiện sau khi thay thế</p>
+                        <p><i class="bi bi-check-lg text-danger"></i> Được theo dõi và nhắc lịch thay lõi khi đến hạn.</p>
                         <div class="price">
                             <span>$275.00</span>
                             <span class="discount-price">$300.00</span>
