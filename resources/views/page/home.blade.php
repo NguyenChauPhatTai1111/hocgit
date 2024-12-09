@@ -617,7 +617,8 @@
 <!-- Start Banner Area -->
 <section class="banner section">
     <h2 class="text-center mb-3">THÔNG TIN CỦA CHÚNG TÔI</h2>
-    <h1>Hello from Main Branch</h1>
+    <h1>Hello from Both Branches</h1>
+
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
